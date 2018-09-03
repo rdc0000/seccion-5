@@ -1,0 +1,28 @@
+#caja{
+		background-color: red;
+		padding: 5px;
+		width: 80%;
+		margin: 0 auto;
+
+	}	
+.izq{
+	     width: 20%;
+	     float: left;
+		background-color: #8BBBFF; 
+		 height: 1200px;
+	}
+.centro{
+	    width: 60%;
+	    float: left;
+	   background-color:  #A5A7A7;
+	    height: 1200px;	}
+.dcha{
+	     width: 20%;
+	     float: left;
+	     background-color: #C14652;
+	     height: 1200px;
+	}
+.clear{
+		clear: both;
+		
+	}

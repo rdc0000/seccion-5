@@ -1,0 +1,17 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+}
+header,.sec1, footer{
+	max-width: 1000px;
+	margin: 20px auto;
+	width: 90%;
+} 
+.class{
+	background-color: blue;
+}
+.menu{
+	background: #D37021;
+	overflow: hidden;
+}
